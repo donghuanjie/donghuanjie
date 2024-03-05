@@ -1,14 +1,16 @@
 ### Hi there 👋 I'm Jacky Dong
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/donghuanjie)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/donghuanjie)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dhjdongh@ucdavis.edu)
 <br>
 
 ### About Me 👦
 - 🔭 I’m currently working on... my work?
 - 🙇‍♂️ I’m currently learning iOS development and NLP.
-- 👯 I’m looking to collaborate on anything cool.
-- 💬 Ask me about how to improve ping-pong skills.
+- 🏔️ I love traveling and playing ping-pong.
 
 ### LeetCode Stats
-<a href="https://github.com/KnlnKS/leetcode-stats">
+<a href="https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark">
   <img alt="LeetCode Stat Card" src="https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark" width="400"/>
 </a>
 
