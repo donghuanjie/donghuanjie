@@ -10,7 +10,7 @@
 
 ### 🧑🏻‍💻 LeetCode
 <a href="https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark">
-  <img alt="LeetCode Stat Card" src="h ttps://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark"/>
+  <img alt="LeetCode Stat Card" src="https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark"/>
 </a>
 
 ### 🚀 Skills
