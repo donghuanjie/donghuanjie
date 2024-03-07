@@ -1,7 +1,7 @@
 ## Hello 👋 I'm Jacky
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/donghuanjie)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dhjdong@ucdavis.edu)
-<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donghuanjie/) -->
+
 
 ### 👦 About Me
 - 🔭 I’m currently working on... my work?
@@ -9,6 +9,7 @@
 - 🏔️ I love traveling and playing table tennis.
 
 ### 🧑🏻‍💻 LeetCode
+[![Jacky's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark)](https://github.com/donghuanjie)
 <a href="https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark">
   <img alt="LeetCode Stat Card" src="https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark"/>
 </a>
