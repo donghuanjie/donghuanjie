@@ -7,12 +7,9 @@
 - 🔭 I’m currently working on... my work?
 - 🙇‍♂️ I’m currently learning iOS development and NLP.
 - 🏔️ I love traveling and playing table tennis.
-
+<!-- 
 ### 🧑🏻‍💻 LeetCode
-[![Jacky's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark)](https://github.com/donghuanjie)
-<a href="https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark">
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark"/>
-</a>
+[![Jacky's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark)](https://github.com/donghuanjie) -->
 
 ### 🚀 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
