@@ -1,17 +1,20 @@
 ## Hello 👋 I'm Jacky
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/donghuanjie)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dhjdong@ucdavis.edu)
 
-
 ### 👦 About Me
-- 🔭 I’m currently working on... my work?
+
+- 🔭 I’m currently working on fixing bugs everywhere.
 - 🙇‍♂️ I’m currently learning iOS development and NLP.
 - 🏔️ I love traveling and playing table tennis.
 
 ### 🧑🏻‍💻 LeetCode
+
 [![Jacky's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark)](https://github.com/donghuanjie)
 
 ### 🚀 Skills
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +42,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: dhjdong@ucdavis.edu
-- 💬 Ask me about 
+- 💬 Ask me about
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
