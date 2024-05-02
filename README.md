@@ -6,7 +6,6 @@
 ### 👦 About Me
 
 - 🔭 I’m currently working on fixing bugs everywhere.
-- 🙇‍♂️ I’m currently learning iOS development and NLP.
 - 🏔️ I love traveling and playing table tennis.
 
 ### 🧑🏻‍💻 LeetCode
