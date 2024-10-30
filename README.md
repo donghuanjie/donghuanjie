@@ -8,10 +8,6 @@
 - 🔭 I’m currently working on fixing bugs everywhere.
 - 🏔️ I love traveling and playing table tennis.
 
-### 🧑🏻‍💻 LeetCode
-
-[![Jacky's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=donghuanjie&theme=Dark)](https://github.com/donghuanjie)
-
 ### 🚀 Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
